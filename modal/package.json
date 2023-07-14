@@ -1,0 +1,17 @@
+{
+  "name": "modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bundler": "^0.8.0",
+    "parcel": "^2.9.3"
+  }
+}
